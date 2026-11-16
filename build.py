@@ -5,7 +5,7 @@ CONFIG = {
     "developer": "Brunelli Games",
     "owner": "Plínio Brunelli",
     "email": "[[EMAIL]]",
-    "publisher_id": "[[PUB_ID]]",          # ex.: pub-1234567890123456
+    "publisher_id": "pub-8919732037503853",
     "effective_pt": "16 de novembro de 2026",
     "effective_en": "November 16, 2026",
 }
