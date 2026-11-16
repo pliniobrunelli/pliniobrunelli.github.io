@@ -78,6 +78,7 @@ def privacy_pt(g):
 <p>O jogo é gratuito e exibe anúncios do Google AdMob (banner, anúncio entre partidas e o anúncio opcional para {g['reward_pt']}). Para mostrar e medir anúncios, o Google pode coletar dados como o identificador de publicidade do aparelho, endereço IP, informações do aparelho e do sistema e interações com os anúncios.</p>
 <ul>
 <li>No Espaço Econômico Europeu, no Reino Unido e na Suíça, o app pede o seu consentimento antes de mostrar anúncios personalizados. Você pode mudar a escolha em <strong>Configurações → Privacidade</strong>.</li>
+<li>Nos estados dos EUA com leis de privacidade (como a Califórnia), você pode recusar a "venda ou compartilhamento" dos seus dados para anúncios em <strong>Configurações → Privacidade</strong>.</li>
 <li>Você pode redefinir ou desativar o identificador de publicidade nas configurações do Android.</li>
 <li>Como o Google usa esses dados: <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>.</li>
 </ul>
@@ -115,6 +116,7 @@ def privacy_en(g):
 <p>The game is free and shows Google AdMob ads (banner, ads between games and the optional ad to {g['reward_en']}). To show and measure ads, Google may collect data such as the device advertising ID, IP address, device and system information and ad interactions.</p>
 <ul>
 <li>In the European Economic Area, the United Kingdom and Switzerland, the app asks for your consent before showing personalized ads. You can change your choice in <strong>Settings → Privacy</strong>.</li>
+<li>In US states with privacy laws (such as California), you can opt out of the "sale or sharing" of your data for ads in <strong>Settings → Privacy</strong>.</li>
 <li>You can reset or turn off the advertising ID in Android settings.</li>
 <li>How Google uses this data: <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>.</li>
 </ul>
