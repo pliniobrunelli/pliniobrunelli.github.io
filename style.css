@@ -1,0 +1,14 @@
+:root{--ink:#2b2550;--muted:#6b6590;--accent:#e08a00;--bg:#fff;--card:#fffaf0;--line:#ece6d6}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:760px;margin:0 auto;padding:32px 20px 64px}a{color:var(--accent)}
+header.site{display:flex;align-items:center;gap:12px;margin-bottom:28px}header.site img{height:44px}
+header.site a{text-decoration:none;color:var(--muted);font-weight:600}
+h1{font-size:30px;line-height:1.2;margin:0 0 6px}h2{font-size:20px;margin:32px 0 8px}
+.muted{color:var(--muted)}.lang{float:right;font-weight:600}
+.hero{text-align:center;margin:8px 0 36px}.hero img{width:min(420px,90%)}
+.games{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.game{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;display:flex;gap:14px;align-items:flex-start}
+.game img{width:72px;height:72px;border-radius:16px;flex:none}.game h3{margin:0 0 4px}.game p{margin:0 0 8px}
+.soon{display:inline-block;background:#fff3d6;color:#8a5a00;border-radius:99px;padding:2px 10px;font-size:13px;font-weight:600}
+footer{margin-top:48px;color:var(--muted);font-size:14px;text-align:center}
+li{margin:4px 0}
