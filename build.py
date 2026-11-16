@@ -4,7 +4,7 @@ import sys, pathlib, html
 CONFIG = {
     "developer": "Brunelli Games",
     "owner": "Plínio Brunelli",
-    "email": "[[EMAIL]]",
+    "email": "brunelli.games@outlook.com",
     "publisher_id": "pub-8919732037503853",
     "effective_pt": "16 de novembro de 2026",
     "effective_en": "November 16, 2026",
